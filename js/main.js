@@ -115,7 +115,7 @@
       if (l) window.open(l, "_blank", "noopener"); else toast("Le numéro WhatsApp de la boutique n'est pas encore configuré.");
     }));
     document.querySelectorAll("[data-demo]").forEach((e) => { e.hidden = !C.demoCatalog; });
-    document.querySelectorAll("[data-config-img]").forEach((e) => { if (C.founderImage) e.src = C.founderImage; });
+    // document.querySelectorAll("[data-config-img]").forEach((e) => { if (C.founderImage) e.src = C.founderImage; });
     reveal();
   });
 })();
