@@ -12,7 +12,7 @@ window.KENZA_PRODUCTS = [
   { id: "asad", name: "Asad", category: "homme", price: 20000, image: "assets/images/Homme/asad.jpg", description: "Une fragrance masculine au caractère affirmé.", available: true, badge: "Populaire" },
   { id: "club-de-nuit", name: "Club de Nuit", category: "homme", price: 25000, image: "assets/images/Homme/club de nuit.png", description: "Une fragrance élégante et pleine de caractère.", available: true, badge: "" },
   { id: "fakhar-lattafa", name: "Fakhar Lattafa", category: "homme", price: 17000, image: "assets/images/Homme/fakhar latttafa.webp", description: "Un parfum raffiné aux notes séduisantes.", available: true, badge: "Nouveauté" },
-  { id: "khamrah-lattafa", name: "Khamrah Lattafa", category: "homme", price: 18000, image: "assets/images/Homme/Khamrah Lattafa.webp", description: "Une fragrance chaleureuse et gourmande.", available: false, badge: "" },
+  { id: "khamrah-lattafa", name: "Khamrah Lattafa", category: "homme", price: 18000, image: "assets/images/Homme/Khamrah Lattafa.webp", description: "Une fragrance chaleureuse et gourmande.", available: true, badge: "" },
   { id: "mousuf", name: "Mousuf", category: "homme", price: 8000, image: "assets/images/Homme/mousuf.png", description: "Une fragrance intense et captivante.", available: true, badge: "Coup de cœur" },
 
   // FEMME
